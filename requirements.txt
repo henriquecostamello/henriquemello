@@ -2,3 +2,6 @@ requests == 2.31.0
 pandas == 2.0.3 
 openai == 0.27.8 
 azure.cognitiveservices.speech == 1.31.0
+datetime
+math
+plotly.graph_objs
